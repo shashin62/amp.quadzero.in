@@ -27,7 +27,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="">
   
-  <link rel="amphtml" href="amp-pages/<?php echo $amp_page;?>" >
+  <link rel="amphtml" href="http://amp.quadzero.in/amp-pages/<?php echo $amp_page;?>" >
   <!-- Google Fonts -->
   <link href='http://fonts.googleapis.com/css?family=Raleway:300,400%7COpen+Sans:400,400i,700%7CLibre+Baskerville:400i' rel='stylesheet'>
 
